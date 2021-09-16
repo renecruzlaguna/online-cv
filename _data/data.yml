@@ -7,106 +7,186 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: René Leandro Cruz Laguna
-  tagline: FullStack Developer
-  avatar: perfil.jfif  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Alan Doe
+  tagline: Full Stack Developer
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: rene.cruz.laguna@gmail.com
-  phone: +598 94 00 5879
-  linkedin: renecruzlaguna
-  github: renecruzlaguna
+  email: hello@webjeda.com
+  phone: 012 345 6789
+  website: blog.webjeda.com #do not add http://
+  linkedin: alandoe
+  xing: alandoe
+  github: sharu725
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  twitter:
-  pdf:
+  twitter: '@webjeda'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: http://www.africau.edu/images/default/sample.pdf
 
   languages:
     - idiom: English
-      level: Basic
-
-    - idiom: Spanish
       level: Native
 
+    - idiom: French
+      level: Professional
+
+    - idiom: Spanish
+      level: Professional
+
   interests:
-    - item: Web and mobile programming
+    - item: Climbing
       link:
 
-    - item: Payment platforms
+    - item: Snowboarding
       link:
 
-    - item: New technologies
+    - item: Cooking
       link:
 
 career-profile:
-  title: ABOUT ME
+  title: Career Profile
   summary: |
-    Computer Science Engineer, with solid experience in project management and software development, with more than 7 years of experience
-    in PHP application development with Symfony2, Doctrine2, Jquery, Angular2 +, ExtJS, HTML5, CSS, Bootstrap, Linux, Windows.
-     Work-oriented objectives. Accustomed to teamwork. Proven ability to offer innovative solutions.
-    From 2018 to 2020 I develop software for tourism in the Travelonux company, using as main technologies: Scala, PlayFramework and Angular.
-    Since December 2020 I develop software solutions, using as main technologies: Scala, Vaading and MySQL in BQN.
+    Summarise your career here lorem ipsum dolor sit amet, consectetuer
+    adipiscing elit. You can [download this free resume/CV template here]().
+    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    Donec quam felis, ultricies nec, pellentesque eu.
+    Second paragraph if required.
 education:
-  - degree: Engineer's Degree
-    university: University of Informatic Sciences (UCI) Havana, Cuba
-    time: 2008 - 2013
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
 experiences:
   - role: Lead Developer
-    time: 2020-11 - Present
-    company: BQN, Montevideo,Uruguay
+    time: 2015 - Present
+    company: Startup Hubs, San Francisco
     details: |
-      - Systems Development for Quiniela agencies using Scala and Vaading technology
-      - Development of System for the administration of the company
-      - BackofficeApp development using Flutter technology
-  - role: FullStack Developer
-    time: 2018-01 - 2020-10
-    company: Travelonux, Montevideo,Uruguay
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
+        - Bullet point
+        - Bullet point
+  - role: Senior Software Engineer
+    time: 2014 - 2015
+    company: Google, London
     details: |
-      - Implementation of integrations with GDS like Amadeus.
-      - Implementation of integrations with hotel brokers
-      - Implementation of integrations with payment gateways and collection networks in Uruguay, Paraguay and Bolivia
-      - Implementation of Restful services using Slick and Scala and PlayFramework
-      - Development of the Mevuelo, BusTuristicoMontevideo, StayPy, DeltaArgentinaUruguay and Conocemas systems
-  - role: FullStack Developer and Software Architect
-  time: 2013-09 - 2018-01
-  company: Data Management Technology Center (DATEC), University of Computer Sciences (UCI), Cuba
-  details: |
-    - Analysis, design and implementation of requirements
-    - Development of SILECTOS, SIGEL-PARTIALES, SIGEL-GENERALES systems. (Systems for the management and information of the Cuban electoral process)
-    - Management of non-functional requirements and definition of the architecture of SIGEL-GENERALES
-    - Selection of technologies for the development of SIGEL-GENERALES
-    - Lead the development process of SIGEL-GENERALES
-    - Continuous improvement of the base architecture of SIGEL-GENERALES
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - role: UI Developer
+    time: 2012 - 2014
+    company: Amazon, London
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
+        - Bullet point
+        - Bullet point
+projects:
+  title: Projects
+  intro: >
+    You can list your side projects or open source libraries in this
+    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Velocity
+      link: "#hook"
+      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+    - title: DevStudio
+      link: "#"
+      tagline: "A responsive website template designed to help web developers/designers market their services."
+
+    - title: Tempo
+      link: "#"
+      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+    - title: Atom
+      link: "#"
+      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+    - title: Delta
+      link: "#"
+      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+  title: Publications
+  intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
+  papers:
+    - title: The Art of Computer Programming
+      link: "#"
+      authors: Donald E. Knuth
+      conference: Addison-Wesley, 1968
+
+    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      link: "#"
+      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+    - title: A syntax directed compiler for Algol 60
+      link: "#"
+      authors: Edgar T. Irons
+      conference: "Comm. ACM 4 (1961), 51–55"
+
 skills:
   title: Skills &amp; Proficiency
+
   toolset:
-    - name: Backend (APIS REST)
+    - name: Python & Django
       level: 98%
 
-    - name: PHP
-      level: 90%
-
-    - name: DB(SQL, NoSQL)
-      level: 90%
-
-    - name: Scala
-      level: 85%
-
-    - name: Java
-      level: 75%
-
-    - name: Javascript
-      level: 90%
-
-    - name: TypeScript
-      level: 90%
+    - name: Javascript & jQuery
+      level: 98%
 
     - name: Angular
-      level: 90%
+      level: 98%
 
     - name: HTML5 & CSS
       level: 95%
 
-    - name: Flutter
-      level: 65%
+    - name: Ruby on Rails
+      level: 85%
+
+    - name: Sketch & Photoshop
+      level: 60%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
